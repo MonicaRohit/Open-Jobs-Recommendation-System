@@ -1,17 +1,24 @@
 # Open-Jobs-Recommendation-System
 
 Overview
+
 The Job Recommendation System is a web application built with Streamlit, designed to help users find job openings based on various criteria such as experience, degree, skills, and location. The system provides an intuitive interface for users to filter and search for relevant job postings from a dataset.
 
 Features
-User-Friendly Interface: The system offers an easy-to-use interface for setting preferences and filtering job listings.
 
-Filtering Options: Users can specify their minimum and maximum years of experience, degree, skills, and location to narrow down job search results.
+- User-Friendly Interface: The system offers an easy-to-use interface for setting 
+  preferences and filtering job listings.
 
-Dynamic Recommendations: The system dynamically updates job recommendations based on the user's selected criteria.
+- Filtering Options: Users can specify their minimum and maximum years of experience, 
+  degree, skills, and location to narrow down job search results.
+
+- Dynamic Recommendations: The system dynamically updates job recommendations based on 
+  the user's selected criteria.
 
 Getting Started
+
 To run the Job Recommendation System locally, follow these steps:
+
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/MonicaRohit/Open-Jobs-Recommendation-System.git
